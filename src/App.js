@@ -1,7 +1,9 @@
+import { GlobalStyle } from "./style/GlobalStyle";
+
 function App() {
   return (
     <div>
-      hello world
+      <GlobalStyle />
     </div>
   );
 }
